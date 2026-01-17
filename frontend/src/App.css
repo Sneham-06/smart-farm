@@ -652,7 +652,16 @@ body {
   .hidden-mobile {
     display: none;
   }
+
+  /* Fix for mobile tabs scrolling */
+  .tabs-container {
+    justify-content: flex-start;
+    padding: 0 1rem;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
 }
+
 
 .flex {
   display: flex;
