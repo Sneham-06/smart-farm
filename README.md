@@ -207,10 +207,7 @@ GitHub: [@Sneham-06](https://github.com/Sneham-06)
 
 ---
 
-### 📞 Support
-For issues, questions, or suggestions:
-*   Open an issue on GitHub.
-*   Email: *[Insert Email Here]*
+
 
 <br>
 <p align="center">Made with ❤️ for farmers everywhere 🌾</p>
