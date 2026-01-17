@@ -1,6 +1,5 @@
 # 🌾 Smart Farm Management System
-![Smart Farm Banner](frontend/src/assets/bg.png) 
-*(Note: Replace the above path with your actual banner image URL if hosted externally)*
+
 
 > **Empowering farmers with data-driven insights, even in remote areas with poor connectivity.**
 
@@ -62,18 +61,6 @@ A modern, AI-powered Progressive Web App (PWA) that brings smart agriculture to 
 ---
 
 ## 🚀 Getting Started
-
-### Option 1: Live Demo (Cloud)
-Visit the deployed application:  
-👉 **[https://smart-farm-frontend.onrender.com](https://smart-farm-frontend.onrender.com)**
-
-### Option 2: Local Development
-
-#### Prerequisites
-*   Node.js (v14 or higher)
-*   npm or yarn
-*   MongoDB Atlas account (or local MongoDB)
-*   Git
 
 #### Installation Steps
 
@@ -220,10 +207,7 @@ GitHub: [@Sneham-06](https://github.com/Sneham-06)
 
 ---
 
-### 📞 Support
-For issues, questions, or suggestions:
-*   Open an issue on GitHub.
-*   Email: *[Insert Email Here]*
+
 
 <br>
 <p align="center">Made with ❤️ for farmers everywhere 🌾</p>
