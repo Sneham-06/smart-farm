@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1768375158056,
+    "username": "testfarmer",
+    "password": "pass123",
+    "phone": "",
+    "settings": {
+      "smsEnabled": false
+    }
+  },
+  {
+    "id": 1768375281520,
+    "username": "farmer1",
+    "password": "pass123",
+    "phone": "9876543210",
+    "settings": {
+      "smsEnabled": true
+    }
+  },
+  {
+    "id": 1768376287240,
+    "username": "email_user",
+    "password": "pass",
+    "phone": "1112223333",
+    "settings": {
+      "smsEnabled": false
+    }
+  }
+]
